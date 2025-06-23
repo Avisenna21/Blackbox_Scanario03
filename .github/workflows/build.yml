@@ -50,7 +50,7 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin `
-            /k:"Avisenna21_Blackbox_Scenario03" `
+            /k:"Avisenna21_Blackbox_Scanario03" `
             /o:"avisenna21" `
             /d:sonar.token="${{ secrets.SONAR_TOKEN }}" `
             /d:sonar.host.url="https://sonarcloud.io" `
