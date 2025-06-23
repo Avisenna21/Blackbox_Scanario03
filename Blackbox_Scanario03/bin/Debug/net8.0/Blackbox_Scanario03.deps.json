@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Blackbox_Scanario03/1.0.0": {
+        "runtime": {
+          "Blackbox_Scanario03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blackbox_Scanario03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

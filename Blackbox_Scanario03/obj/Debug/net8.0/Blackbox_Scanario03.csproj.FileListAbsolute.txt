@@ -1,0 +1,15 @@
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\bin\Debug\net8.0\Blackbox_Scanario03.exe
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\bin\Debug\net8.0\Blackbox_Scanario03.deps.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\bin\Debug\net8.0\Blackbox_Scanario03.runtimeconfig.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\bin\Debug\net8.0\Blackbox_Scanario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\bin\Debug\net8.0\Blackbox_Scanario03.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.AssemblyInfoInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.AssemblyInfo.cs
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.csproj.CoreCompileInputs.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.sourcelink.json
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\refint\Blackbox_Scanario03.dll
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.pdb
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\Blackbox_Scanario03.genruntimeconfig.cache
+C:\Users\avisenna\OneDrive - Telkom University\TUGAS AKHIR\Eksekusi Program\Blackbox_Scanario03\obj\Debug\net8.0\ref\Blackbox_Scanario03.dll
